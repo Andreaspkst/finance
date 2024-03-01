@@ -1,5 +1,5 @@
 import React from "react"
-import { Analytics, Hero, Navbar } from "./components/index.js"
+import { Analytics, Hero, Navbar, Newsletter } from "./components/index.js"
 
 function App() {
   return (
@@ -7,6 +7,7 @@ function App() {
     <Navbar />
     <Hero />
     <Analytics />
+    <Newsletter />
    </div>
   )
 }
