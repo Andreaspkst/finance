@@ -1,10 +1,11 @@
 import React from "react"
-import { Navbar } from "./components/index.js"
+import { Hero, Navbar } from "./components/index.js"
 
 function App() {
   return (
    <div className="">
     <Navbar />
+    <Hero />
    </div>
   )
 }

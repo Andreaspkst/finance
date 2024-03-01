@@ -15,7 +15,7 @@ const Navbar = () => {
         <h1 className='w-ful text-3xl font-bold text-[#00df9a]'>
             REACT.
         </h1>
-        <ul className='hidden md:flex'>
+        <ul className='hidden '>
             <li className='p-4'>Home</li>
             <li className='p-4'>Company</li>
             <li className='p-4'>Resources</li>
